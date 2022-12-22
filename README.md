@@ -1,2 +1,0 @@
-# typegoose
-# express-practices-typegoose
